@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import './../styles/App.css';
-import AppRouter from "./../router/AppRouter";
 import twitterLogo from './../assets/twitter-logo.svg';
 
 const TWITTER_HANDLE = 'ishaan_jaff';

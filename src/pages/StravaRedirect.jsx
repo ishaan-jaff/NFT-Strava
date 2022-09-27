@@ -7,7 +7,7 @@ import {
     cleanUpAuthToken,
     testAuthGetter,
     getUserData,
-} from "../utils/functions";
+} from "./../utils/functions";
 
 class StravaRedirect extends React.Component {
     componentDidMount() {

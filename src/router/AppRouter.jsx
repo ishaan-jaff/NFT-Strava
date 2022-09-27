@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-//import Home from "../pages/Home";
+import App from "../pages/App";
 import StravaRedirect from "../pages/StravaRedirect";
 //import YourDistance from "../pages/YourDistance";
 
